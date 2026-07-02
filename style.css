@@ -1,0 +1,17 @@
+.jogo{
+    background-color: blueviolet
+}
+
+#tabela{
+    background-color: crimson;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: chartreuse;
+   color: cornflowerblue;
+}
+
